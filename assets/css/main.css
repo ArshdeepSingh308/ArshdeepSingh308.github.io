@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+img.setsize {
+	height: 100%;
+}
+
 ol, ul {
 	list-style: none;
 }
